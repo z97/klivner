@@ -1,0 +1,1 @@
+scatterplot of average salary and percentage of repatriates
